@@ -1,0 +1,76 @@
+body{
+    background-image: url(../images/animal5.jpg);
+    background-position: right bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+a { font-weight: bold;}
+a { color: sandybrown;}
+a {text-decoration: none;}
+
+header{
+    color: sandybrown;
+    font-family: 'Rock Salt', cursive;
+    font-size: 250%;
+    text-shadow: 2px 2px 2px black;
+    text-indent: 100px;
+    text-decoration: none;
+}
+
+section.transbox{
+    background-color: black;
+    height: 290px;
+    width: 500px;
+    padding: 20px;
+    opacity: 0.65;
+
+}
+
+main h1{
+    padding-top: 10px;
+    padding-left: 10px;
+    text-align: left;
+    text-transform: uppercase;
+    color: white;
+    margin:0;
+    width: 500px;
+    text-align: justify;
+    font-size: 160%;
+    font-family: 'Julius Sans One', sans-serif;
+
+}
+
+main h2{
+    padding-left: 100px;
+    text-align: center;
+    text-indent: 50px;
+    text-shadow: 3px 3px 5px black;
+    color: antiquewhite;
+    margin:0;
+    width:500px;
+    font-family: 'Anton', sans-serif;
+}
+
+
+main{
+
+    font-family: Veranda, Arial, Helectiva, sans-serif;
+    padding-left: 100px;
+    width: 500px;
+    text-align: justify;
+    color: white;
+}
+
+
+footer{
+    text-indent: 630px;
+    position: absolute;
+    bottom: 0;
+    color: antiquewhite;
+    font-family: Veranda, Arial, Helectiva, sans-serif;
+    font-size: 80%;
+    padding-bottom: 2px;
+}
+
